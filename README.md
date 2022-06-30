@@ -1,2 +1,2 @@
 # SpeechtoText
-A code that converts speech to arabic text.
+A javascript code that converts speech to arabic text.
