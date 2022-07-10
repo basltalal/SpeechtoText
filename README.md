@@ -15,16 +15,26 @@ CSS code for styling.
 ## Algorithm for running ESP32
 
 //Defining the Board:
+
 1.	Make sure you installed the Library needed for the ESP32:
+
 -Go to File.
+
 -Click Preferences.
+
 -Put the link of the library on Additional Boards Manager URLs section.  
+
 2.	Go to Tools.
-3.	Hover over Board: “Arduino Uno”.
-4.	Click Boards Manager.
-5.	Type ESP32 on the Type section.
-6.	Install ESP32.
-7.	Click Close.
+
+4.	Hover over Board: “Arduino Uno”.
+
+6.	Click Boards Manager.
+
+8.	Type ESP32 on the Type section.
+
+10.	Install ESP32.
+
+12.	Click Close.
 
 //Update the Board:
 -	Go to Tools.
