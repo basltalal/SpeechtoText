@@ -33,6 +33,7 @@ CSS code for styling.
 -	Click WEMOS D1 MINI ESP32.
 
 //Algorithm for running ESP32:
+
 1-	Make sure the ESP32 is plugged to the computer.
 
 2-	Make sure the light is flashing on the ESP32.
