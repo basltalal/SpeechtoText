@@ -16,13 +16,9 @@ CSS code for styling.
 
 //Defining the Board:
 1.	Make sure you installed the Library needed for the ESP32:
-
-
-•	Go to File.
-
-•	Click Preferences.
-
-•	Put the link of the library on Additional Boards Manager URLs section.  
+-Go to File.
+-Click Preferences.
+-Put the link of the library on Additional Boards Manager URLs section.  
 2.	Go to Tools.
 3.	Hover over Board: “Arduino Uno”.
 4.	Click Boards Manager.
@@ -40,10 +36,10 @@ CSS code for styling.
 1-	Make sure the ESP32 is plugged to the computer.
 2-	Make sure the light is flashing on the ESP32.
 3-	Install Arduino software.
-•	Go to file.
-•	Go to Examples.
-•	Hover over Basics.
-•	Click Blink.
+-	Go to file.
+-	Go to Examples.
+-	Hover over Basics.
+-	Click Blink.
 4-	Make the light flash faster by reducing the delay to 100.
 5-	Go to Tools.
 6-	Hover over Port.
