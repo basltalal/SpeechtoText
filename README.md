@@ -19,7 +19,9 @@ CSS code for styling.
 
 
 •	Go to File.
+
 •	Click Preferences.
+
 •	Put the link of the library on Additional Boards Manager URLs section.  
 2.	Go to Tools.
 3.	Hover over Board: “Arduino Uno”.
