@@ -50,11 +50,18 @@ CSS code for styling.
 
 3-	Install Arduino software.
 -	Go to file.
+
 -	Go to Examples.
+
 -	Hover over Basics.
+
 -	Click Blink.
+
 4-	Make the light flash faster by reducing the delay to 100.
+
 5-	Go to Tools.
+
 6-	Hover over Port.
+
 7-	Click COM6 to run the code.
 
