@@ -36,11 +36,13 @@ CSS code for styling.
 
 12.	Click Close.
 
+
 //Update the Board:
 -	Go to Tools.
 -	Hover over Board: “Arduino Uno”.
 -	Hover over ESP32 Arduino.
 -	Click WEMOS D1 MINI ESP32.
+
 
 //Algorithm for running ESP32:
 
