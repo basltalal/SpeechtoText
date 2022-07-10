@@ -16,6 +16,8 @@ CSS code for styling.
 
 //Defining the Board:
 1.	Make sure you installed the Library needed for the ESP32:
+
+
 •	Go to File.
 •	Click Preferences.
 •	Put the link of the library on Additional Boards Manager URLs section.  
