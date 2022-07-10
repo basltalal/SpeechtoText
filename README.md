@@ -18,11 +18,11 @@ CSS code for styling.
 
 1.	Make sure you installed the Library needed for the ESP32:
 
--Go to File.
+   -Go to File.
 
--Click Preferences.
+   -Click Preferences.
 
--Put the link of the library on Additional Boards Manager URLs section.  
+   -Put the link of the library on Additional Boards Manager URLs section.  
 
 2.	Go to Tools.
 
