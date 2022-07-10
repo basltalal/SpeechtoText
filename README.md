@@ -34,7 +34,9 @@ CSS code for styling.
 
 //Algorithm for running ESP32:
 1-	Make sure the ESP32 is plugged to the computer.
+
 2-	Make sure the light is flashing on the ESP32.
+
 3-	Install Arduino software.
 -	Go to file.
 -	Go to Examples.
